@@ -1,3 +1,5 @@
+# Written with VIM (only)
+
 # install & start
 
 $ npm install
