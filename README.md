@@ -12,4 +12,4 @@ $ vi server.js
 
 ... listen(8000 -> ... listen(*NUMBER YOU LIKE*
 
-[DEMO]<http://13.125.162.189:3000/>
+[DEMO](http://13.125.162.189:3000/)
