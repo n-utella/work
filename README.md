@@ -14,8 +14,6 @@ $ vi server.js
 
 [DEMO](http://13.125.162.189:3000/)
 
-test 1 *```abc*```
-
-test 2 ```*abc```*
-
-test 3 *```abc```* ``` *
+a *
+cde
+b *
