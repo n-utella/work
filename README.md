@@ -18,4 +18,4 @@ test 1 *```abc*```
 
 test 2 ```*abc```*
 
-test 3 *```abc```* ```
+test 3 *```abc```* ``` *
